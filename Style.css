@@ -1,0 +1,269 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container>header{
+    background-image: url('images/abstract-orange-wave-background-free-vector.png');
+    background-size: 100% 100%;
+    padding-bottom: 5%;
+}
+
+#box1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    text-align: center;
+    text-decoration: none;
+    border: 2px;
+    border-style: solid;
+    background-color: rgb(54, 54, 54);
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 6px;
+    padding-right: 13px;
+    padding-left: 10px;
+}
+
+#box2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    text-align: center;
+    text-decoration: none;
+    border: 2px;
+    border-style: solid;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#box3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    text-align: center;
+    text-decoration: none;
+    border: 2px;
+    border-style: solid;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#box4{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    text-align: center;
+    text-decoration: none;
+    border: 2px;
+    border-style: solid;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#box5{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    text-align: center;
+    text-decoration: none;
+    border: 2px;
+    border-style: solid;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#box6{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    text-align: center;
+    text-decoration: none;
+    border: 2px;
+    border-style: solid;
+    color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 6px;
+    padding-left: 20px;
+    padding-right: 5px;
+}
+.hinhchinh{
+   padding-right: 20px;
+   margin-right: 600px;
+}
+
+ul{
+    border: 2px solid;
+    width: 175px;
+    height: 382px;
+}
+
+a{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.Mac{
+    margin-top: -390px;
+    margin-right: 220px;
+}
+.banphim{
+    margin-top: -195px;
+    margin-right: 220px;
+}
+
+ .pcgear{
+    margin-top: -160px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    background-color: rgb(212, 53, 53);
+    color: white;
+    margin-left: 3px;
+    margin-right: 20px;
+}
+ 
+.column{
+    width:25%;
+    float:left;
+}
+
+.sanpham img{
+    float: left;
+    margin-left: 15px;
+    width: 290px;
+}
+
+.sanpham .ten a{
+    padding-left: 10px;
+    font-size: x-large;
+    font-variant: small-caps;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sanpham .gia{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+    color: red;
+    font-weight:bold;
+    font-size: x-large;
+}
+
+.sanpham .gia del{
+    font-size: smaller;
+    color:gray;
+   }
+
+.laptopgear{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    color: whitesmoke;
+    background-color: rgb(212, 53, 53);
+    margin-top: 400px;
+    padding-top: 10px;
+    margin-left: 3px;
+    margin-right: 20px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.san-pham img{
+    float: left;
+    margin-left: 3px;
+    width: 290px;
+}
+
+.san-pham .laptop{
+    padding-left: 10px;
+    float: left;
+    padding-right: 80px;
+    font-size:medium;
+    font-variant: small-caps;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.san-pham .gialap{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10px;
+    color: red;
+    font-weight:bold;
+    font-size: x-large;
+}
+
+.san-pham .gialap del{
+    font-size: smaller;
+    color:gray;
+}
+
+#box2:hover{
+    background-color: red;
+    color: white;
+}
+
+#box3:hover{
+    background-color: red;
+    color: white;
+}
+
+#box4:hover{
+    background-color: red;
+    color: white;
+}
+
+#box5:hover{
+    background-color: red;
+    color: white;
+}
+
+#box6:hover{
+    background-color: red;
+    color: white;
+}
+
+.san-pham img:hover{
+    border: 1px solid coral;
+}
+
+.sanpham img:hover{
+    border: 1px solid coral;
+}
+
+
+.trangcuoi a:hover{
+    color: red;
+}
+
+.trangcuoi{
+    
+    padding-left: 10px;
+    text-align: left;
+}
+.trangcuoi2{
+    margin-top: -190px;
+    padding-left: 600px;
+    margin-right: 400px;
+}
+#blue{
+    color: rgb(0, 162, 255);
+}
+#imgcuoi img{
+    width: 200px;
+}
+#ggmap{
+    padding-right: 50px;
+    margin-top: -300px;
+    text-align: right;
+}
+.sale{
+    margin-top: -385px;
+    margin-right: -560px;
+}

@@ -1,0 +1,81 @@
+.main{
+    padding-left: 10px;
+}
+.thongtin{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: larger;
+    margin-left: 600px;
+}
+#tieude{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: x-large;
+}
+#red{
+    font-size: x-large;
+    color: red;
+}
+.giadel del{
+    font-size: smaller;
+    color:gray;
+}
+.giadel{
+    color: red;
+}
+.dathang{
+    color:white;
+    background-color: red;
+    padding-left: 40px;
+    border: 3px white solid;
+    font-size: x-large;
+    margin-left: 600px;
+    margin-right: 700px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+b{
+    padding-left: 10px;
+    font-size: x-large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+.tieudenho b{
+    padding-left: 10px;
+    font-size: larger;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+.mieuta{
+    padding-left: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size:large;
+}
+.hi1{
+    padding-left: 29%;
+}
+iframe{
+    margin-left: 19%;
+}
+.trangcuoi a:hover{
+    color: red;
+}
+
+.trangcuoi{
+    
+    padding-left: 10px;
+    text-align: left;
+}
+.trangcuoi2{
+    margin-top: -220px;
+    padding-left: 600px;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container>header{
+    background-image: url('images/abstract-orange-wave-background-free-vector.png');
+    background-size: 100% 100%;
+    padding-bottom: 5%;
+}
+
